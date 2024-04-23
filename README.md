@@ -3,7 +3,7 @@
 ## REG NO: 212222240055
 
 ### AIM:
-To perform regular differncing,seasonal adjustment and log transformatio on international airline passenger data
+To perform regular differncing,seasonal adjustment and log transformatio on Electricity production  data
 ### ALGORITHM:
 1. Import the required packages like pandas and numpy
 2. Read the data using the pandas
